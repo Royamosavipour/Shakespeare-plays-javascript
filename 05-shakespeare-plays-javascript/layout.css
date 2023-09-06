@@ -1,0 +1,62 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 3rem;
+  font-size: 1.5rem;
+
+}
+
+
+
+.subject {
+  margin-bottom: 2rem;
+  list-style: none;
+}
+
+.Details {
+  background-color: #d3d3d3;
+  margin: 1rem 1rem 1rem 0;
+  padding: 1rem 1rem 1rem 3rem;
+
+}
+
+table tr,
+table td {
+  text-align: left;
+  width: 25%;
+}
+
+
+
+button{
+  margin-left: 3rem;
+  font-size: 2rem;
+  cursor: pointer;
+  border: none;
+  background-color: rgb(188, 188, 188);
+  padding: 1rem 2rem;
+  color: white;
+  border-radius: 5px;
+}
+
+.icon-pdf{
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  gap: 4px;
+
+
+
+}
+
+
+
+
+
